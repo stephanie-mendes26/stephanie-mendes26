@@ -1,3 +1,2 @@
 
-- 🌱 I’m currently learning Data Science at Turing College
--
+🌱 I’m currently learning Data Science at Turing College
